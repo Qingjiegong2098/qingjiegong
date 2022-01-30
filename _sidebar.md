@@ -1,7 +1,7 @@
-* [基础知识](https://qingjiegong.rth1.me/#/python/基础知识.md)
+* [一、基础知识](python/一、基础知识)
 
-* [数字类型](https://qingjiegong.rth1.me/#/python/数字类型.md)
+* [二、数字类型](python/二、数字类型)
 
-* [运算符](https://qingjiegong.rth1.me/#/python/运算符.md)
+* [三、运算符](python/三、运算符)
 
-  
+* [四、程序流程控制](python/四、程序流程控制)
